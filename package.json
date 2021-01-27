@@ -1,0 +1,13 @@
+{
+  "name": "prettier-php-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.16.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "prettier sample.php"
+  }
+}
